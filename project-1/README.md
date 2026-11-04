@@ -233,7 +233,7 @@ Each movie document contains these fields:
 
 ## demovideo
 
-![demo video](https://drive.google.com/file/d/1rhldNWowTMkAsUlc-1upLD4M_XDATmEy/view?usp=sharing)
+![demo video](https://drive.google.com/file/d/1rhldNWowTMkAsUlc-1upLD4M_XDATmEy/view?usp=sharing);
 
 ## 👨‍💻 Author
 Denish Ranpariya
