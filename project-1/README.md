@@ -231,9 +231,9 @@ Each movie document contains these fields:
 ![screenshot](assets/mongodb.png)
 
 
-## demovideo
+## 🎬 Demo Video
 
-![demovideo](https://drive.google.com/file/d/1rhldNWowTMkAsUlc-1upLD4M_XDATmEy/view?usp=sharing)
+[▶ Watch Demo Video](https://drive.google.com/file/d/1rhldNWowTMkAsUlc-1upLD4M_XDATmEy/view?usp=sharing)
 
 ## 👨‍💻 Author
 Denish Ranpariya
